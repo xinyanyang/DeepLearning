@@ -15,3 +15,10 @@ This repository contains HW and projects of IE 534 in 18 Fall and other deep lea
 **HW6**: GAN Project
 
 **HW7&HW8**: NLP Project
+
+**Project**: 
+
+The Show-and-Tell paper proposed in 2015 makes a progress on automatically describing the content of an image. In this paper, they present a generative model based on a deep recurrent aneural network that combines a recent advance in computer vision and machine translation. The model is trained to maximize the likelihood of the target description sentence given the training image. They apply the model on different datasets and evaluated with different metrics like BLEU, METEOR and CIDER. The results show that there is a significant improvement.
+
+In this project, we aim to implement the model in the paper with PyTorch framework.
+
